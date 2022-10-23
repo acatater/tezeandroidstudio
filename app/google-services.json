@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027491301460",
+    "project_id": "altinbay-85de6",
+    "storage_bucket": "altinbay-85de6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027491301460:android:9deee617328ac4cb1e05c1",
+        "android_client_info": {
+          "package_name": "osplimaaser.sresv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027491301460-2410opubndstree5oft657mehh7e9ssa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Gmakq30L944lM26ZAQqoQhlwnJJzAzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027491301460-2410opubndstree5oft657mehh7e9ssa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
